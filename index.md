@@ -6,3 +6,5 @@ dieses ist nun die zweite Zeile die hinzugefügt wird als freier Text. Das sollt
 * SubCharacter 03
 * SubCharacter 04
 * SubCharacter 05
+
+> Zitat am Ende des Blocks
